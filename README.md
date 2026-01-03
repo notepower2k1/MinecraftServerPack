@@ -28,6 +28,7 @@ Một server **Survival Vanilla** sử dụng **Fabric**, có hỗ trợ **Voice
 - Đúng phiên bản **Fabric 1.21.8**
 - Cài sẵn **Fabric Loader**
 
+---
 ## 📦 Hướng Dẫn Sử Dụng Library Pack
 
 1. Vào mục **Releases** và tải bản mới nhất
@@ -39,12 +40,10 @@ Một server **Survival Vanilla** sử dụng **Fabric**, có hỗ trợ **Voice
    - `shaderpacks`
 5. Khởi động Minecraft và vào game 🎉
 
----
 
 ---
 
 ## ❤️ Ghi Chú
-
 Nếu gặp lỗi hoặc cần hỗ trợ, hãy tạo **Issue** hoặc liên hệ admin server.
 
 Chúc bạn chơi game vui vẻ! 🚀
